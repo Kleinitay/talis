@@ -1,0 +1,13 @@
+.tagsList {
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.tag { 
+	float: left;
+	margin: 1px;
+	padding: 2px;
+	background-color: #1156c4;
+	border-radius: 5px;
+ }

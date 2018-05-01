@@ -1,0 +1,7 @@
+{
+    "html.format.enable": false,
+    "html.validate.styles": false,
+    "editor.formatOnSave": false,
+    "html.format.unformatted": null,
+    "javascript.format.enable": false
+}
